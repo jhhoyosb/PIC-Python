@@ -1,3 +1,4 @@
+import numpy as np 
 def generate_auxiliary_vector(num_elements):
     """
     Generates a vector containing elements from 1 to the specified number of elements, duplicated.
